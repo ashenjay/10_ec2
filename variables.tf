@@ -1,6 +1,6 @@
 variable "region" {
   description = "AWS region"
-  default     = "us--2"
+  default     = "us-east-1"
 }
 
 variable "instance_count" {
